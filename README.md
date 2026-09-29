@@ -3,11 +3,11 @@
   MICrONS Column Explorer
 </h1>
 
-[![Live Demo](https://github.com/deangeckt/connectivity_explorer/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/deangeckt/connectivity_explorer/actions)
-[![GitHub stars](https://img.shields.io/github/stars/deangeckt/connectivity_explorer?style=social)](https://github.com/deangeckt/connectivity_explorer/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/deangeckt/connectivity_explorer)](https://github.com/deangeckt/connectivity_explorer/issues)
+[![Live Demo](https://github.com/deangeckt/microns_column_explorer/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/deangeckt/microns_column_explorer/actions)
+[![GitHub stars](https://img.shields.io/github/stars/deangeckt/microns_column_explorer?style=social)](https://github.com/deangeckt/microns_column_explorer/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/deangeckt/microns_column_explorer)](https://github.com/deangeckt/microns_column_explorer/issues)
 
-A free, browser-based [**interactive 3D viewer**](https://deangeckt.github.io/connectivity_explorer) for cortical neuron connectivity - no installation or login required.
+A free, browser-based [**interactive 3D viewer**](https://deangeckt.github.io/microns_column_explorer) for cortical neuron connectivity - no installation or login required.
 Pick a source neuron, sample its synaptic targets, and explore their skeletons and synapse locations in real time, then continue your analysis directly in Neuroglancer.
 
 Data is from the [MICrONS](https://www.microns-explorer.org/) cortical column dataset (v1718): ~1,300 neurons and ~146K intrinsic synapses.
@@ -24,8 +24,8 @@ https://github.com/user-attachments/assets/e37adec4-5262-4096-a9c2-a62765b9dd87
 ## Getting Started
 
 ```bash
-git clone https://github.com/deangeckt/connectivity_explorer.git
-cd connectivity_explorer
+git clone https://github.com/deangeckt/microns_column_explorer.git
+cd microns_column_explorer
 npm install
 npm start
 ```
@@ -49,7 +49,7 @@ If you use MICrONS Column Explorer in your work, please cite:
   author  = {Geckt, Dean},
   title   = {MICrONS Column Explorer: Interactive 3D Browser for Cortical Neuron Connectivity},
   year    = {2026},
-  url     = {https://github.com/deangeckt/connectivity_explorer}
+  url     = {https://github.com/deangeckt/microns_column_explorer}
 }
 ```
 

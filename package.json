@@ -1,6 +1,6 @@
 {
-  "name": "connectivity_explorer",
-  "homepage": "https://deangeckt.github.io/connectivity_explorer",
+  "name": "microns_column_explorer",
+  "homepage": "https://deangeckt.github.io/microns_column_explorer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
