@@ -57,7 +57,7 @@ const IntroDialog: React.FC<Props> = ({ open, onClose, showBackground, onToggleB
                 alt="logo"
                 sx={{ width: 64, height: 64 }}
             />
-            Connectivity Explorer
+            MICrONS Column Explorer
         </DialogTitle>
 
         <DialogContent dividers>

@@ -572,7 +572,7 @@ const ExplorerPage: React.FC = () => {
                         sx={{ width: 64, height: 64 }}
                     />
                     <Typography sx={{ fontWeight: 700, fontSize: 20, color: 'primary.main', lineHeight: 1 }}>
-                        Connectivity Explorer
+                        MICrONS Column Explorer
                     </Typography>
                 </Box>
 

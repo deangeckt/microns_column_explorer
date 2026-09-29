@@ -1,6 +1,6 @@
 <h1>
-  <img src="public/logo.svg" width="64" height="64" alt="Connectivity Explorer logo" style="vertical-align:middle; margin-right:10px">
-  Connectivity Explorer
+  <img src="public/logo.svg" width="64" height="64" alt="MICrONS Column Explorer logo" style="vertical-align:middle; margin-right:10px">
+  MICrONS Column Explorer
 </h1>
 
 [![Live Demo](https://github.com/deangeckt/connectivity_explorer/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/deangeckt/connectivity_explorer/actions)
@@ -36,12 +36,12 @@ npm run build  # production bundle
 
 ## Citation
 
-If you use Connectivity Explorer in your work, please cite:
+If you use MICrONS Column Explorer in your work, please cite:
 
 ```bibtex
 @software{geckt2026neurons,
   author  = {Geckt, Dean},
-  title   = {Connectivity Explorer: Interactive 3D Browser for Cortical Neuron Connectivity},
+  title   = {MICrONS Column Explorer: Interactive 3D Browser for Cortical Neuron Connectivity},
   year    = {2026},
   url     = {https://github.com/deangeckt/connectivity_explorer}
 }
